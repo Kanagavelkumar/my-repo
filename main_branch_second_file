@@ -1,8 +1,3 @@
 Hello world
-<<<<<<< HEAD
 welcome
-timeout=10
-=======
-beautifull
-timeout=10
->>>>>>> feature/pre-release
+timeout=20
